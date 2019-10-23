@@ -6,7 +6,7 @@ kenar2 = int(input("2.kenarı giriniz:"))
 kenar3 = int(input("3.kenarı giriniz:"))
 
 #Prizmanın hacmini cm^3 cinsinden giriniz:
-hacimCM3 = kenar1.kenar2.kenar3
+hacimCM3 = kenar1*kenar*kenar3
 
 #Prizmanın hacmini litre cinsinden heaplıyoruz:
 hacimL = hacimCM3
